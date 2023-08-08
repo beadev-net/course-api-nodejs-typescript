@@ -1,4 +1,4 @@
-# ✨ API Boilerplate
+# NodeJS + Typescript API
 
 ## 🐳 Using Docker
 
@@ -17,7 +17,7 @@ To access db-admin, enter in browser: http://localhost:8080 <br/>
 
 ---
 
-## :package: Run in Development mode without Docker
+## :package: Run in Development Mode (No Docker)
 
 ```bash
 npm run config:env
